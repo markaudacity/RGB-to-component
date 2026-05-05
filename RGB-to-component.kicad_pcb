@@ -1039,7 +1039,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C17382"
+		(property "LCSC" "C276298"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -8160,7 +8160,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C101451"
+		(property "LCSC" "C228375"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -8799,7 +8799,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C17397"
+		(property "LCSC" "C706262"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -9012,7 +9012,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C17397"
+		(property "LCSC" "C706262"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -9438,7 +9438,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C101451"
+		(property "LCSC" "C228375"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)

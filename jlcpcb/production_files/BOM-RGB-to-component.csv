@@ -4,7 +4,6 @@ Comment,Designator,Footprint,LCSC,Quantity
 100n,"C10,C11,C12,C13,C14,C4,C8",C_0805_2012Metric_Pad1.15x1.40mm_HandSolder,C14663,7
 10u,C9,C_0805_2012Metric_Pad1.15x1.40mm_HandSolder,C15850,1
 100u,C7,CP_EIA-3528-21_Kemet-B_Pad1.50x2.35mm_HandSolder,C16133,1
-1k33,R2,R_0805_2012Metric_Pad1.15x1.40mm_HandSolder,C17382,1
 1k402,"R6,R7",R_0805_2012Metric_Pad1.15x1.40mm_HandSolder,C17388,2
 1k77,"R25,R26",R_0805_2012Metric_Pad1.15x1.40mm_HandSolder,C17397,2
 1k,"R1,R101,R14,R19,R20,R24",R_0805_2012Metric_Pad1.15x1.40mm_HandSolder,C17513,6
@@ -17,6 +16,7 @@ Comment,Designator,Footprint,LCSC,Quantity
 RS8752XK,U3,SOIC-8_3.9x4.9mm_P1.27mm,C236994,1
 THS7374,U6,TSSOP-14_4.4x5mm_P0.65mm,C2652746,1
 SC6206B-65K5,U1,SOT-23,C2688243,1
+1k33,R2,R_0805_2012Metric_Pad1.15x1.40mm_HandSolder,C276298,1
 5k1,"R16,R17",R_0805_2012Metric_Pad1.15x1.40mm_HandSolder,C27834,2
 1u,"C1,C2,C3",C_0805_2012Metric_Pad1.15x1.40mm_HandSolder,C28323,3
 USB_C_Receptacle_Power,J3,USB_C_Receptacle_Generic_Power_Only,C283540,1
